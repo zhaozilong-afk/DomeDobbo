@@ -1,0 +1,3 @@
+# Project exclude paths
+/Dobbo-Controller/target/
+/Dobbo-Service-Impl/target/
